@@ -13,6 +13,6 @@ Websites, online shops, social media and apps for businesses: one contact, a who
 
 **Security.** An audit of the website, server, domain and e-mail, also for sites built by someone else. Every care plan includes security updates and vulnerability monitoring.
 
-Run by [Maciej Kankowski](https://maciej.kankowski.pl/) ([@mackankowski](https://github.com/mackankowski)), tech lead with 10+ years of building web applications for international clients. Based in Gdynia, Poland, working in Polish and English.
+Run by [Maciej Kankowski](https://maciej.kankowski.pl/) ([@mackankowski](https://github.com/mackankowski)), tech lead with 10+ years of building web applications for international clients. Based in the Tricity (Gdańsk, Gdynia, Sopot), Poland, working in Polish and English.
 
 Client repositories here are private. To talk about a project: maciej@kankowski.pl
